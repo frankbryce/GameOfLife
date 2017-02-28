@@ -2,7 +2,7 @@ package file
 
 import (
   "io"
-  "github.com/frankbryce/GameOfLife/types/"
+  "github.com/frankbryce/GameOfLife/types"
 )
 
 type GolWriter struct {
